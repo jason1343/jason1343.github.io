@@ -1,1 +1,7 @@
-This is my image ![image](/assets/%EB%B9%85%EB%B6%84%20%EC%88%98%ED%96%89.jpg)
+# 마크다운으로 작성합니다!
+
+*HI, HELLO*
+
+## 안녕하세요!
+
+This is my image ![image](/assets/bigbun.jpg)
